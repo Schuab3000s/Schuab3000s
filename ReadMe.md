@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Estudante de Desenvolvimento de Software<br>🤝 Cooperação em equipe<br>🌱 Aprendendo SQL no momento<br>💬 Ótimo ouvinte<br>⚡ Aprendizado rápido
+🔭 Estudante de Desenvolvimento de Software<br>🤝 Cooperação em equipe<br>🌱 Aprendendo JAVA no momento<br>💬 Ótimo ouvinte<br>⚡ Aprendizado rápido
 
 
 ## 🌐 Socials:
