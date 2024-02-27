@@ -11,9 +11,6 @@
 ⚡ Aprendizado rápido
 
 
-## 🌐 Socials:
-
-
 # 💻 Tech Stack:
 
 
