@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🔭 Estudante de Desenvolvimento de Software
+🔭 Estudante de Desenvolvimento de Software 
 
 🤝 Cooperação em equipe
 
