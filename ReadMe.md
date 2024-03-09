@@ -9,7 +9,9 @@
 💬 Ótimo ouvinte
 
 ⚡ Aprendizado rápido
+
 <br>
+
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
@@ -18,14 +20,22 @@
     <img align="center" height="30" width="40" alt="mysql-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
    </div>
   
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
 # 📊 GitHub Stats:
 
-
 <div >
-
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Schuab3000s&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schuab3000s&layout=compact&langs_count=16&theme=gotham"/>
+  <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=Schuab3000s&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schuab3000s&layout=compact&langs_count=16&theme=gotham"/>
 </div>
 
 
