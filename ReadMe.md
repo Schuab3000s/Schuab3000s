@@ -28,7 +28,7 @@
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=java,javascript,html,css,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,eclipse,react,html,css,bootstrap,javascript,git,github,nodejs,postman)](https://skillicons.dev)
 
 <br>
 
