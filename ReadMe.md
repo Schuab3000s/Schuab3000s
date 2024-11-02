@@ -5,27 +5,26 @@
 <br>
 <br>
 <br>
- <strong>Olá, meu nome é Kevin Schuab!</strong><br>
- Estou cursando Análise e Desenvolvimento de Sistemas e realizando um Bootcamp FullStack Java pela Generetion.
+ 
+### Olá, meu nome é Kevin Schuab!
+<p>
+ Estou cursando Análise e Desenvolvimento de Sistemas e realizando um Bootcamp FullStack Java pela Generetion.<br>
+ <br>
+ Sou ótimo ouvinte, sempre disposto a ajudar os outros e sempre atento aos detalhes. 
 </p>
 <br>
 <br>
 <br>
 <br>
 <br>
-<br>
-<br>
-
 
 <div> 
   <div>
   
   </div>
   <div align="center">
-    <h1 align="center">Tecnologias 😁</h1>
+    <h2 align="center">Tecnologias 😁</h2>
     <img align="left" height="250" alt="coding-time" src="code.gif">
-    <br>
-    <br>
     <br>
     <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"/></code>
     <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
@@ -46,7 +45,7 @@
 <br>
 <br>
 <div align="center">
-<h1 align="center"> 📊 GitHub Stats:</h1>
+<h2 align="center"> 📊 GitHub Stats:</h2>
 <div>
   <img align="left" height="160em" src="https://github-readme-stats.vercel.app/api?username=Schuab3000s&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schuab3000s&layout=compact&langs_count=16&theme=gotham"/>
