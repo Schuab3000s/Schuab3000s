@@ -7,7 +7,7 @@
 <p>
  Estou cursando Análise e Desenvolvimento de Sistemas e realizando um Bootcamp FullStack Java pela Generetion.<br>
  <br>
- Sou ótimo ouvinte, sempre disposto a ajudar os outros e sempre atento aos detalhes. 
+ Sou ótimo ouvinte, sempre disposto a ajudar os outros e atento aos detalhes. 
 </p>
 
 <br>
